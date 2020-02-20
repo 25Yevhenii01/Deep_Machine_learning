@@ -28,5 +28,6 @@ Steps:
 2. Execute all steps for creating environments
 3. Install packages
 4. https://github.com/OlafenwaMoses/ImageAI/tree/master/imageai/Detection - url for download Retina Net model
+5. https://github.com/OlafenwaMoses/ImageAI/releases/tag/1.0/ - url for download model for video
 
 
